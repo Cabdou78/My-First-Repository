@@ -1,0 +1,9 @@
+Homework
+---------
+High Severity High Priority:>>>> it is an error that occurs on the basic functions that does not alow the user to proceed further. such as a webpage link that does not open.
+
+High Severity Low Priority:>>>> it means that the problem is severe but does not have to be fixed right away, for example with you click on a link and the website crashes.
+
+Low Severity High Priority:>>>>> this means defects that have to be fixed immediately but does not affect the application or the website.
+
+Low Severity Low Priority:>>>>> does not require the urgency to fix it nore is it necessary to report it. it could be extra space, or miss-spelling. does not affect the function of the application.
